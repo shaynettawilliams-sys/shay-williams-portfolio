@@ -34,22 +34,15 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 
 ---
 
-### 🔹 Collective Enterprise Proposal
+### 🔹 Collective Enterprise Director Role Proposal
 - Authored a leadership role design ensuring global system uptime and ISO 27001 compliance.  
 - Established predictive monitoring and ITIL service governance practices.
-**Focus:** Modernization Strategy | Risk Management | Data Governance | Analytics  
+- Designed a dual-leadership framework integrating Business Intelligence and Systems Engineering.  
+- Implemented real-time operational visibility through Power BI and predictive analytics.
+**Focus:** Modernization Strategy | Infrastructure Leadership | Data Governance | Performance Optimization
 **Read Full Proposal:** [📄 View Innovative Strategy Proposal](docs/Innovative_Strategy_Proposal_shaynetta_williams.pdf)
 
 ---
-
-### 🔹 Director Role Proposal Summary
-- Designed a dual-leadership framework integrating Business Intelligence and Systems Engineering.  
-- Implemented real-time operational visibility through Power BI and predictive analytics.
-**Focus:** IT Operations | Infrastructure Leadership | Performance Optimization  
-**Read Full Document:** [📄 View Director Role Proposal](docs/5a0af232-288e-4851-bb70-4e62fbee4ce9.pdf)
-
-
-  ---
 
 ## 🧱 Portfolio Development
 
