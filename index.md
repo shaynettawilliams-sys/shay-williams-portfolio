@@ -15,11 +15,11 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 - Applied CoBit 5, ISO 20000, and EAR compliance frameworks for global ERP deployment.  
 - Recommended Synesthor Ltd. as the preferred ERP partner, aligning governance and long-term cost transparency.
 **Focus:** ERP Implementation | Outsourcing | Governance | Risk Mitigation  
-**Read Full Case Study:** [📄 View ERP Vendor Selection Case Study](docs/ERP_Vendor_Selection_Case_Study.pdf)
+**Read Full Case Study:** [📄 View ERP Vendor Selection Case Study](docs/ERP_VENDOR_SELECTION.pdf)
 ---
 ### 🔹 Vendor Selection RFP Justification
 **Focus:** Procurement Strategy | Contracting | Business Case Development  
-**Read Full Document:** [📄 View Vendor Selection RFP Justification](docs/vendor_selectio_rfp_justification.pdf)
+**Read Full Document:** [📄 View Vendor Selection RFP Justification](docs/Vendor_Selection_rfp_Justificationif.pdf)
 
 ---
 
@@ -33,7 +33,7 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 - Introduced AI-driven virtual agent proposals to improve Tier 1 service delivery.  
 - Applied ITIL Change and Service Level Management for scalability and transparency.
 **Focus:** Change Management | Continual Improvement | Relationship Management  
-**Read Full Document:** [📄 View Steering Committee Recommendation](docs/Steering_committee_recommendation.pdf)
+**Read Full Document:** [📄 View Steering Committee Recommendation](docs/Steering_Committee_Recommendation.pdf)
 
 ---
 
@@ -41,7 +41,7 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 - Authored a leadership role design ensuring global system uptime and ISO 27001 compliance.  
 - Established predictive monitoring and ITIL service governance practices.
 **Focus:** Modernization Strategy | Risk Management | Data Governance | Analytics  
-**Read Full Proposal:** [📄 View Innovative Strategy Proposal](docs/innovative_strategy_Proposal_shaynetta_williams.pdf)
+**Read Full Proposal:** [📄 View Innovative Strategy Proposal](docs/Innovative_Strategy_Proposal_shaynetta_williams.pdf)
 
 ---
 
