@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.png" width="100%" alt="Shay Williams IT & Program Management Portfolio">
 </p>
-![banner](banner.png)
+
 
 # 🌐 Shay Williams | IT Systems & Program Management Portfolio
 
