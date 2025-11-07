@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # 🌐 Shay Williams | IT Systems & Program Management Portfolio
 
 Welcome to my professional IT portfolio — a collection of projects demonstrating my expertise in **program management, system administration, cybersecurity compliance, ERP strategy, and ITIL-based service improvement** across both corporate and military environments.
