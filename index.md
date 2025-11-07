@@ -11,7 +11,9 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 - Recommended Synesthor Ltd. as the preferred ERP partner, aligning governance and long-term cost transparency.
 **Focus:** ERP Implementation | Outsourcing | Governance | Risk Mitigation  
 **Read Full Case Study:** [📄 View ERP Vendor Selection Case Study](docs/ERP_VENDOR_SELECTION.pdf)
+
 ---
+
 ### 🔹 Vendor Selection RFP Justification
 **Focus:** Procurement Strategy | Contracting | Business Case Development  
 **Read Full Document:** [📄 View Vendor Selection RFP Justification](docs/Vendor_Selection_rfp_Justificationif.pdf)
