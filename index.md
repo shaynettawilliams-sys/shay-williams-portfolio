@@ -15,13 +15,14 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 - Applied CoBit 5, ISO 20000, and EAR compliance frameworks for global ERP deployment.  
 - Recommended Synesthor Ltd. as the preferred ERP partner, aligning governance and long-term cost transparency.
 **Focus:** ERP Implementation | Outsourcing | Governance | Risk Mitigation  
-**Read Full Case Study:** [📄 View Endothon ERP Case Study](docs/03565f20-046a-4984-b7fc-7c29957f7346.pdf)
+**Read Full Case Study:** [📄 View ERP Vendor Selection Case Study](docs/ERP%20VENDOR%20SELECTION%20Case%20Study.pdf)
+**Read Full Document:** [📄 View Vendor Selection Summary](docs/Vendor%20Selection.pdf)
 
 ---
 
 ### 🔹 Director of Systems Engineering & Networks
 **Focus:** IT Infrastructure | Governance | ITIL Service Management | Leadership Development  
-**Read Full Document:** [📄 View Director of Systems Engineering & Networks Role](docs/83296d02-8060-4967-b14c-d7ab45802661.pdf)
+**Read Full Document:** [📄 View Director Role Profile](docs/Director_of_Systems_Engineering_Role_Profile_Shay_Williams.pdf)
 
 ---
 
@@ -29,7 +30,7 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 - Introduced AI-driven virtual agent proposals to improve Tier 1 service delivery.  
 - Applied ITIL Change and Service Level Management for scalability and transparency.
 **Focus:** Change Management | Continual Improvement | Relationship Management  
-**Read Full Document:** [📄 View IT Organizational & Resource Plan](docs/9a6a3f11-49b3-4ee0-a2ac-72d5aa501797.pdf)
+**Read Full Document:** [📄 View Steering Committee Recommendation](docs/Steering%20Committee%20Recommendation.pdf)
 
 ---
 
@@ -37,7 +38,7 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 - Authored a leadership role design ensuring global system uptime and ISO 27001 compliance.  
 - Established predictive monitoring and ITIL service governance practices.
 **Focus:** Modernization Strategy | Risk Management | Data Governance | Analytics  
-**Read Full Document:** [📄 View Collective Enterprise Proposal](docs/66952880-cba6-4f94-b91b-9cb62711c766.pdf)
+**Read Full Proposal:** [📄 View Innovative Strategy Proposal](docs/Innovative%20Strategy%20Proposal%20shaynetta%20williams.pdf)
 
 ---
 
