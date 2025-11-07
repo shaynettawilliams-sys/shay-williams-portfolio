@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png.png" width="100%" alt="Shay Williams IT & Program Management Portfolio">
+  <img src="banner.png" width="100%" alt="Shay Williams IT & Program Management Portfolio">
 </p>
 ![banner](banner.png)
 
