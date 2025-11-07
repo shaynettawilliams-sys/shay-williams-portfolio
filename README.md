@@ -11,7 +11,6 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 - Recommended Synesthor Ltd. as the preferred ERP partner, aligning governance and long-term cost transparency.
 **Focus:** ERP Implementation | Outsourcing | Governance | Risk Mitigation  
 **Read Full Case Study:** [📄 View Endothon ERP Case Study](docs/03565f20-046a-4984-b7fc-7c29957f7346.pdf)
-### 🔹 Endothon ERP Vendor Selection Case Study 
 
 ---
 
