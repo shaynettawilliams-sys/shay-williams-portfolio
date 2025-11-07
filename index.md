@@ -41,7 +41,7 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 - Authored a leadership role design ensuring global system uptime and ISO 27001 compliance.  
 - Established predictive monitoring and ITIL service governance practices.
 **Focus:** Modernization Strategy | Risk Management | Data Governance | Analytics  
-**Read Full Proposal:** [📄 View Innovative Strategy Proposal](docs/Innovative%20Strategy%20Proposal%20shaynetta%20williams.pdf)
+**Read Full Proposal:** [📄 View Innovative Strategy Proposal](docs/innovative_strategy_Proposal_shaynetta_williams.pdf)
 
 ---
 
