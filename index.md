@@ -21,7 +21,6 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 **Focus:** Procurement Strategy | Contracting | Business Case Development  
 **Read Full Document:** [📄 View Vendor Selection RFP Justification](docs/vendor_selectio_rfp_justification.pdf)
 
-
 ---
 
 ### 🔹 Director of Systems Engineering & Networks
@@ -34,7 +33,7 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 - Introduced AI-driven virtual agent proposals to improve Tier 1 service delivery.  
 - Applied ITIL Change and Service Level Management for scalability and transparency.
 **Focus:** Change Management | Continual Improvement | Relationship Management  
-**Read Full Document:** [📄 View Steering Committee Recommendation](docs/Steering%20Committee%20Recommendation.pdf)
+**Read Full Document:** [📄 View Steering Committee Recommendation](docs/Steering_committee_recommendation.pdf)
 
 ---
 
