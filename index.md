@@ -15,8 +15,12 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 - Applied CoBit 5, ISO 20000, and EAR compliance frameworks for global ERP deployment.  
 - Recommended Synesthor Ltd. as the preferred ERP partner, aligning governance and long-term cost transparency.
 **Focus:** ERP Implementation | Outsourcing | Governance | Risk Mitigation  
-**Read Full Case Study:** [📄 View ERP Vendor Selection Case Study](docs/ERP%20VENDOR%20SELECTION%20Case%20Study.pdf)
-**Read Full Document:** [📄 View Vendor Selection Summary](docs/Vendor%20Selection.pdf)
+**Read Full Case Study:** [📄 View ERP Vendor Selection Case Study](docs/ERP_Vendor_Selection_Case_Study.pdf)
+---
+### 🔹 Vendor Selection RFP Justification
+**Focus:** Procurement Strategy | Contracting | Business Case Development  
+**Read Full Document:** [📄 View Vendor Selection RFP Justification](docs/vendor_selectio_rfp_justification.pdf)
+
 
 ---
 
