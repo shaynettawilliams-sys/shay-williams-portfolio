@@ -46,6 +46,18 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 **Focus:** IT Operations | Infrastructure Leadership | Performance Optimization  
 **Read Full Document:** [📄 View Director Role Proposal](docs/5a0af232-288e-4851-bb70-4e62fbee4ce9.pdf)
 
+
+  ---
+
+## 🧱 Portfolio Development
+
+This website and all associated documentation were designed and built entirely by me using **GitHub Pages**, **Markdown**, and **HTML**.  
+I independently configured the repository structure, uploaded project deliverables, implemented responsive layout design, and optimized file organization for accessibility and professional presentation.
+
+📁 Repository: [View Source on GitHub](https://github.com/shaynettawilliams-sys/shay-williams-portfolio)
+🌍 Live Site: [View Portfolio](https://shaynettawilliams-sys.github.io/shay-williams-portfolio/)
+
+
 ---
 
 ## 🎓 Education & Certifications
