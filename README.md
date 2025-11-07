@@ -45,5 +45,5 @@ Welcome to my professional IT portfolio — a collection of projects demonstrati
 
 ---
 
-© 2025 Shay Williams. All rights reserved.  
+© 2025 Shaynetta Williams. All rights reserved.  
 This portfolio was built to highlight my work in **Enterprise IT Leadership, Cloud Transformation, and Secure Systems Strategy.**
