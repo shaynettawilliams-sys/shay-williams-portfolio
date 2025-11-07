@@ -1,4 +1,4 @@
-![Banner](banner.png)
+![banner](banner.png)
 
 # 🌐 Shay Williams | IT Systems & Program Management Portfolio
 
